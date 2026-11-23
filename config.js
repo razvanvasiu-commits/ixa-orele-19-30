@@ -5,7 +5,7 @@
    CHEIE:  trebuie să fie identică cu CHEIE din scriptul Google (Cod.gs).
    CLASA:  clasa elevilor. */
 window.CURS_CONFIG = {
-  SERVER: "",
+  SERVER: "https://script.google.com/macros/s/AKfycbz6WH3wdyrThhaDjuoyp_iVCpcsV0NnHB_Hpn6wCC3SG75B4w33_ydq0IO-EFFqyItt/exec",
   CHEIE: "ixa3-2026",
   CLASA: "a IX-a A"
 };
